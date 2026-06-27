@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verbotene-kusse/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Verbotene Küsse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verbotene-kusse/) |
+| **Get License** | [Commercial Licensing for Verbotene Küsse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verbotene-kusse/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Verbotene Küsse, die Großstadt wird wach,
+> Wir jagen die Sterne hoch oben vom Dach.
+> Dein Duft ist wie Gift und dein Blick zieht mich an,
+> Du weißt, dass ich dir nicht mehr entkommen kann.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
