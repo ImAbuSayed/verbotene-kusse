@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verbotene-kusse/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Verbotene Küsse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verbotene-kusse/) |
+| **Get License** | [Secure Licensing Rights for Verbotene Küsse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verbotene-kusse/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4b63ca6a36889ef530f3facf6eccb68274503af591514b55d4d45948bbf248c5` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

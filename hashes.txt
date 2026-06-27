@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Verbotene Küsse
+
+This log tracks the cryptographic history and versioning for the song **Verbotene Küsse** (verbotene-kusse).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T23:17:21.816570 | `v1` | `4b63ca6a36889ef530f3facf6eccb68274503af591514b55d4d45948bbf248c5` | `11abdbcccbeeadc2a5164a7b93509df63123ed5eeef327a78d2fdb9d715fed94` | `2026-06-27_verbotene-kusse-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
